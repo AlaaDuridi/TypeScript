@@ -15,8 +15,7 @@
     <li>Unions And Intersections</li>
     <li>Type narrowing</li>
     <li>Nullable Types</li>
-    <li>The unknown type</li>
-    <li>The never type</li>
+    <li>optional property access operator</li>
 </ul>
 
 <h2>BEST PARACTICES :</h2>
