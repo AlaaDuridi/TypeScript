@@ -41,3 +41,15 @@ numbers[0] =0 ;
 
 //benifit of typescript: code completion
 numbers.forEach(n=>n.valueOf());
+
+/**
+ * Tuples : are useful when u have two values, key and value
+ * best pracroce is not to use tuples for more than two valuse
+ */
+
+let person : [string, number] = ["John", 25];
+
+let user :[number, string] = [1,'Alaa'];
+console.log(user[0]);
+console.log(user[1]);
+user.push(1); //no error will arise and this is one of the gaps of typescript
