@@ -1,4 +1,4 @@
-function greet(name: string|null | undefined):void{
+function greet(name: string | null | undefined):void{
     if(name)
     console.log(`Hello ${name.toLocaleUpperCase()}`);
 else
