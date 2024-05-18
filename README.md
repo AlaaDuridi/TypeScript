@@ -1,6 +1,5 @@
 # TypeScript
 
-<h1> this is self learning type script</h1>
 <h2>Content</h2>
 
 <ul>
