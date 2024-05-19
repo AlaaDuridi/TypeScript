@@ -39,4 +39,4 @@
     <li>"sourceMap": true,</li>
 </ul>
 
-<h4>DRY: Don't Repeat Yourself</h4>
+
